@@ -1,6 +1,6 @@
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment,Diameter,Draw Note Price Horizontal Line
 NQH6.CME@RITHMIC,25115.50,opening range high,#e2e2e2,#007171,left,,TRUE
-NQH6.CME@RITHMIC,25034.50,opening range low,#e2e2e2,#007171,left,,TRUE
+NQH6.CME@RITHMIC,25034.00,opening range low,#e2e2e2,#007171,left,,TRUE
 NQH6.CME@RITHMIC,25010.00,midnight open,#e2e2e2,#007171,left,,TRUE
 NQH6.CME@RITHMIC,25010.50,settlement,#e2e2e2,#007171,left,,TRUE
 NQH6.CME@RITHMIC,25034.00,value area high,#4e4e4e,#e2e2e2,left,,TRUE

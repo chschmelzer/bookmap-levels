@@ -1,5 +1,4 @@
 #automap RITHMIC,,,,,,
-Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment,Diameter,Draw Note Price Horizontal Line
 NQH6.CME,25035.25,ORH,#ffffff,#ffd700,left,1,TRUE
 NQH6.CME,24961.50,ORL,#ffffff,#ffd700,left,1,TRUE
 NQH6.CME,25126.00,VAH,#ffffff,#00aa00,left,1,TRUE

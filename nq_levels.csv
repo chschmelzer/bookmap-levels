@@ -1,10 +1,10 @@
 #automap RITHMIC,,,,,,,
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment,Diameter,Draw Note Price Horizontal Line
-NQM6,25035.25,ORH,#ffffff,#ffd700,left,1,TRUE
-NQM6,24961.50,ORL,#ffffff,#ffd700,left,1,TRUE
-NQM6,25126.00,VAH,#ffffff,#00aa00,left,1,TRUE
-NQM6,24986.00,VAL,#ffffff,#00aa00,left,1,TRUE
-NQM6,25010.25,Midnight,#ffffff,#1e90ff,left,1,TRUE
-NQM6,25010.50,Settlement,#ffffff,#ff4444,left,1,TRUE
-NQM6,25180.00,Day High,#ffffff,#ff8800,left,1,TRUE
-NQM6,24895.75,Day Low,#ffffff,#ff8800,left,1,TRUE
+NQH6.CME,25035.25,ORH,#ffffff,#ffd700,left,1,TRUE
+NQH6.CME,24961.50,ORL,#ffffff,#ffd700,left,1,TRUE
+NQH6.CME,25126.00,VAH,#ffffff,#00aa00,left,1,TRUE
+NQH6.CME,24986.00,VAL,#ffffff,#00aa00,left,1,TRUE
+NQH6.CME,25010.25,Midnight,#ffffff,#1e90ff,left,1,TRUE
+NQH6.CME,25010.50,Settlement,#ffffff,#ff4444,left,1,TRUE
+NQH6.CME,25180.00,Day High,#ffffff,#ff8800,left,1,TRUE
+NQH6.CME,24895.75,Day Low,#ffffff,#ff8800,left,1,TRUE

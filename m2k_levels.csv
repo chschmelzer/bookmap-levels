@@ -1,0 +1,11 @@
+Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment,Diameter,Draw Note Price Horizontal Line
+M2KH6.CME@RITHMIC,0.00,opening range high,#e2e2e2,#007171,left,,TRUE
+M2KH6.CME@RITHMIC,0.00,opening range low,#e2e2e2,#007171,left,,TRUE
+M2KH6.CME@RITHMIC,2539.70,midnight open,#e2e2e2,#007171,left,,TRUE
+M2KH6.CME@RITHMIC,2540.20,settlement,#e2e2e2,#007171,left,,TRUE
+M2KH6.CME@RITHMIC,2512.00,value area high,#4e4e4e,#e2e2e2,left,,TRUE
+M2KH6.CME@RITHMIC,2492.80,value area low,#4e4e4e,#e2e2e2,left,,TRUE
+M2KH6.CME@RITHMIC,2539.80,day high,#e2e2e2,#4e4e4e,left,,TRUE
+M2KH6.CME@RITHMIC,2476.50,day low,#e2e2e2,#4e4e4e,left,,TRUE
+M2KH6.CME@RITHMIC,2511.16,EMA 1h,#4e4e4e,#caca00,left,,TRUE
+M2KH6.CME@RITHMIC,2497.91,vwap,#e2e2e2,#0c3299,left,,TRUE

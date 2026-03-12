@@ -3,9 +3,9 @@ GCJ6.COMEX@RITHMIC,0.00,opening range high,#e2e2e2,#007171,left,,TRUE
 GCJ6.COMEX@RITHMIC,0.00,opening range low,#e2e2e2,#007171,left,,TRUE
 GCJ6.COMEX@RITHMIC,5185.40,midnight open,#e2e2e2,#007171,left,,TRUE
 GCJ6.COMEX@RITHMIC,5183.90,settlement,#e2e2e2,#007171,left,,TRUE
-GCJ6.COMEX@RITHMIC,5183.20,value area high,#4e4e4e,#e2e2e2,left,,TRUE
+GCJ6.COMEX@RITHMIC,5184.00,value area high,#4e4e4e,#e2e2e2,left,,TRUE
 GCJ6.COMEX@RITHMIC,5146.40,value area low,#4e4e4e,#e2e2e2,left,,TRUE
 GCJ6.COMEX@RITHMIC,5197.80,day high,#e2e2e2,#4e4e4e,left,,TRUE
 GCJ6.COMEX@RITHMIC,5130.00,day low,#e2e2e2,#4e4e4e,left,,TRUE
-GCJ6.COMEX@RITHMIC,5170.33,EMA 1h,#4e4e4e,#caca00,left,,TRUE
-GCJ6.COMEX@RITHMIC,5166.07,vwap,#e2e2e2,#0c3299,left,,TRUE
+GCJ6.COMEX@RITHMIC,5170.36,EMA 1h,#4e4e4e,#caca00,left,,TRUE
+GCJ6.COMEX@RITHMIC,5165.99,vwap,#e2e2e2,#0c3299,left,,TRUE

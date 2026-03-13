@@ -4,8 +4,8 @@ ESH6.CME@RITHMIC,0.00,opening range low,#e2e2e2,#007171,left,,TRUE
 ESH6.CME@RITHMIC,6684.25,midnight open,#e2e2e2,#007171,left,,TRUE
 ESH6.CME@RITHMIC,6685.25,settlement,#e2e2e2,#007171,left,,TRUE
 ESH6.CME@RITHMIC,6710.00,value area high,#4e4e4e,#e2e2e2,left,,TRUE
-ESH6.CME@RITHMIC,6666.00,value area low,#4e4e4e,#e2e2e2,left,,TRUE
+ESH6.CME@RITHMIC,6664.00,value area low,#4e4e4e,#e2e2e2,left,,TRUE
 ESH6.CME@RITHMIC,6711.75,day high,#e2e2e2,#4e4e4e,left,,TRUE
 ESH6.CME@RITHMIC,6640.00,day low,#e2e2e2,#4e4e4e,left,,TRUE
 ESH6.CME@RITHMIC,6693.55,EMA 1h,#4e4e4e,#caca00,left,,TRUE
-ESH6.CME@RITHMIC,6680.17,vwap,#e2e2e2,#0c3299,left,,TRUE
+ESH6.CME@RITHMIC,6680.10,vwap,#e2e2e2,#0c3299,left,,TRUE

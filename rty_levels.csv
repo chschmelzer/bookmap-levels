@@ -4,8 +4,8 @@ RTYH6.CME@RITHMIC,0.00,opening range low,#e2e2e2,#007171,left,,TRUE
 RTYH6.CME@RITHMIC,2495.00,midnight open,#e2e2e2,#007171,left,,TRUE
 RTYH6.CME@RITHMIC,2493.00,settlement,#e2e2e2,#007171,left,,TRUE
 RTYH6.CME@RITHMIC,2513.60,value area high,#4e4e4e,#e2e2e2,left,,TRUE
-RTYH6.CME@RITHMIC,2488.00,value area low,#4e4e4e,#e2e2e2,left,,TRUE
+RTYH6.CME@RITHMIC,2487.20,value area low,#4e4e4e,#e2e2e2,left,,TRUE
 RTYH6.CME@RITHMIC,2513.70,day high,#e2e2e2,#4e4e4e,left,,TRUE
 RTYH6.CME@RITHMIC,2470.10,day low,#e2e2e2,#4e4e4e,left,,TRUE
-RTYH6.CME@RITHMIC,2480.20,EMA 1h,#4e4e4e,#caca00,left,,TRUE
-RTYH6.CME@RITHMIC,2494.02,vwap,#e2e2e2,#0c3299,left,,TRUE
+RTYH6.CME@RITHMIC,2480.24,EMA 1h,#4e4e4e,#caca00,left,,TRUE
+RTYH6.CME@RITHMIC,2493.99,vwap,#e2e2e2,#0c3299,left,,TRUE

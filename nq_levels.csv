@@ -4,8 +4,8 @@ NQH6.CME@RITHMIC,0.00,opening range low,#e2e2e2,#007171,left,,TRUE
 NQH6.CME@RITHMIC,24567.00,midnight open,#e2e2e2,#007171,left,,TRUE
 NQH6.CME@RITHMIC,24568.50,settlement,#e2e2e2,#007171,left,,TRUE
 NQH6.CME@RITHMIC,24682.00,value area high,#4e4e4e,#e2e2e2,left,,TRUE
-NQH6.CME@RITHMIC,24538.00,value area low,#4e4e4e,#e2e2e2,left,,TRUE
+NQH6.CME@RITHMIC,24540.00,value area low,#4e4e4e,#e2e2e2,left,,TRUE
 NQH6.CME@RITHMIC,24738.00,day high,#e2e2e2,#4e4e4e,left,,TRUE
 NQH6.CME@RITHMIC,24397.00,day low,#e2e2e2,#4e4e4e,left,,TRUE
-NQH6.CME@RITHMIC,24619.76,EMA 1h,#4e4e4e,#caca00,left,,TRUE
-NQH6.CME@RITHMIC,24578.30,vwap,#e2e2e2,#0c3299,left,,TRUE
+NQH6.CME@RITHMIC,24620.12,EMA 1h,#4e4e4e,#caca00,left,,TRUE
+NQH6.CME@RITHMIC,24578.48,vwap,#e2e2e2,#0c3299,left,,TRUE

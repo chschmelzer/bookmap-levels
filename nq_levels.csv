@@ -1,11 +1,11 @@
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment,Diameter,Draw Note Price Horizontal Line
-NQH6.CME@RITHMIC,24701.25,opening range high,#e2e2e2,#007171,left,,TRUE
+NQH6.CME@RITHMIC,24725.00,opening range high,#e2e2e2,#007171,left,,TRUE
 NQH6.CME@RITHMIC,24611.00,opening range low,#e2e2e2,#007171,left,,TRUE
 NQH6.CME@RITHMIC,24567.00,midnight open,#e2e2e2,#007171,left,,TRUE
 NQH6.CME@RITHMIC,24568.50,settlement,#e2e2e2,#007171,left,,TRUE
 NQH6.CME@RITHMIC,24690.00,value area high,#4e4e4e,#e2e2e2,left,,TRUE
-NQH6.CME@RITHMIC,24560.00,value area low,#4e4e4e,#e2e2e2,left,,TRUE
+NQH6.CME@RITHMIC,24556.00,value area low,#4e4e4e,#e2e2e2,left,,TRUE
 NQH6.CME@RITHMIC,24738.00,day high,#e2e2e2,#4e4e4e,left,,TRUE
 NQH6.CME@RITHMIC,24397.00,day low,#e2e2e2,#4e4e4e,left,,TRUE
-NQH6.CME@RITHMIC,24623.19,EMA 1h,#4e4e4e,#caca00,left,,TRUE
-NQH6.CME@RITHMIC,24593.22,vwap,#e2e2e2,#0c3299,left,,TRUE
+NQH6.CME@RITHMIC,24626.33,EMA 1h,#4e4e4e,#caca00,left,,TRUE
+NQH6.CME@RITHMIC,24595.30,vwap,#e2e2e2,#0c3299,left,,TRUE

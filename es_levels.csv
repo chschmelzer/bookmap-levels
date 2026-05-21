@@ -1,10 +1,10 @@
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment,Diameter,Draw Note Price Horizontal Line
-ESM6.CME@RITHMIC,7400.00,ORB high,#e2e2e2,#007171,left,,TRUE
-ESM6.CME@RITHMIC,7380.75,ORB low,#e2e2e2,#007171,left,,TRUE
-ESM6.CME@RITHMIC,7446.00,VA high,#4e4e4e,#e2e2e2,left,,TRUE
-ESM6.CME@RITHMIC,7400.00,VA low,#4e4e4e,#e2e2e2,left,,TRUE
-ESM6.CME@RITHMIC,7458.00,day high,#e2e2e2,#4e4e4e,left,,TRUE
-ESM6.CME@RITHMIC,7356.00,day low,#e2e2e2,#4e4e4e,left,,TRUE
-ESM6.CME@RITHMIC,7415.22,vwap,#e2e2e2,#0c3299,left,,TRUE
-ESM6.CME@RITHMIC,7377.00,midnight,#e2e2e2,#007171,left,,TRUE
-ESM6.CME@RITHMIC,7408.76,EMA 1h,#4e4e4e,#caca00,left,,TRUE
+ESM6.CME@RITHMIC,7424.50,ORB high,#e2e2e2,#007171,left,,TRUE
+ESM6.CME@RITHMIC,7411.25,ORB low,#e2e2e2,#007171,left,,TRUE
+ESM6.CME@RITHMIC,7432.00,VA high,#4e4e4e,#e2e2e2,left,,TRUE
+ESM6.CME@RITHMIC,7416.00,VA low,#4e4e4e,#e2e2e2,left,,TRUE
+ESM6.CME@RITHMIC,7469.75,day high,#e2e2e2,#4e4e4e,left,,TRUE
+ESM6.CME@RITHMIC,7407.50,day low,#e2e2e2,#4e4e4e,left,,TRUE
+ESM6.CME@RITHMIC,7427.86,vwap,#e2e2e2,#0c3299,left,,TRUE
+ESM6.CME@RITHMIC,7432.75,midnight,#e2e2e2,#007171,left,,TRUE
+ESM6.CME@RITHMIC,7430.93,EMA 1h,#4e4e4e,#caca00,left,,TRUE
